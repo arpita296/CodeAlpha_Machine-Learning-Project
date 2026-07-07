@@ -1,7 +1,8 @@
 # CodeAlpha_Machine-Learning-Project
 
-# Project Title
+# TASK 1- Project Title
   Credit Scoring Model using Machine Learning
+  
 
 # Objective
   Predict an individual's creditworthiness using past financial data.
